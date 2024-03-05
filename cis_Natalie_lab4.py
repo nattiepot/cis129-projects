@@ -1,5 +1,5 @@
 # Module 4 lab 4
-# Natalie Orcutt
+# Natalie O.
 # 2/27/24
 # takes a stores monthly sales and percent increase in sales and determines what store and employee bonuses are applied
 
